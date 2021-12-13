@@ -1,0 +1,11 @@
+E:\Clinical Informatics Project\appointment\bin\Debug\appointment.exe.config
+E:\Clinical Informatics Project\appointment\bin\Debug\appointment.exe
+E:\Clinical Informatics Project\appointment\bin\Debug\appointment.pdb
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.csproj.AssemblyReference.cache
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.csproj.SuggestedBindingRedirects.cache
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.Form1.resources
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.Properties.Resources.resources
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.csproj.GenerateResource.cache
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.csproj.CoreCompileInputs.cache
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.exe
+E:\Clinical Informatics Project\appointment\obj\Debug\appointment.pdb

@@ -1,0 +1,11 @@
+E:\Clinical Informatics Project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Clinical Informatics Project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Clinical Informatics Project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Clinical Informatics Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
